@@ -84,7 +84,7 @@ class FeatureAddition():
     
     def add_target(self, cleaned_data):
         
-        cleaned_data['target'] = cleaned_data.result.apply(lambda x: 1 if x == 2 else 0)
+        cleaned_data['target'] = cleaned_data.result.apply(lambda x: 1 if x < 2 else 0)
         
         return cleaned_data
     
