@@ -3,7 +3,7 @@ EPL Winner Prediction
 
 Dataquest Project - Predict EPL Match Winners using Machine Learning
 
-Project Organization
+## Project Organization
 
 <pre>
     
