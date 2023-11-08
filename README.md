@@ -5,7 +5,7 @@ Dataquest Project - Predict EPL Match Winners using Machine Learning
 
 Project Organization
 
-<p>
+<pre>
     
 ├── LICENSE
 ├── README.md
@@ -24,4 +24,4 @@ Project Organization
     └── features
         ├── __init__.py
         └── build_features.py
-</p>
+</pre>
