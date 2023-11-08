@@ -1,7 +1,8 @@
 EPL Winner Prediction
 ==============================
 
-Dataquest Project - Predict EPL Match Winners using Machine Learning
+In this project, we delve into the analysis of data from the English Premier League. The dataset contains detailed match statistics for each team, along with essential metadata. Our main goal is to create a predictive model that can be used as a pre-match statistical tool or as a valuable resource for sports betting enthusiasts.
+
 
 ## Project Organization
 
